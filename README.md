@@ -10,8 +10,8 @@ You can download the APKs and test the apps directly on your device.
 ## 📰 NewsFeed — Modern News Application
 A clean and responsive news app with category-based feeds and smooth content loading.
 
-- 📦 APK: APK_LINK_HERE  
-- 🔗 Source Code: REPO_LINK_HERE  
+- 📦 APK: [APK_LINK_HERE ](https://github.com/Nehal-Ahmmed/NewsFeed/releases/tag/initial_version) 
+- 🔗 Source Code: [REPO_LINK_HERE](https://github.com/Nehal-Ahmmed/NewsFeed)
 
 ### 📸 Screenshots
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
@@ -98,8 +98,8 @@ A lifestyle app to manage daily essentials with a clean UI.
 ## 💸 Expense Tracker — Personal Finance Manager
 Track expenses, visualize spending, and generate reports.
 
-- 📦 APK: APK_LINK_HERE  
-- 🔗 Source Code: REPO_LINK_HERE  
+- 📦 APK: [APK_LINK_HERE  ](https://github.com/Nehal-Ahmmed/flutter-expense-tracker/releases/tag/initial_version)
+- 🔗 Source Code: [REPO_LINK_HERE](https://github.com/Nehal-Ahmmed/flutter-expense-tracker)
 
 ### 📸 Screenshots
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px;">
