@@ -32,8 +32,8 @@ A clean and responsive news app with category-based feeds and smooth content loa
 ## 🎓 EduVision AI — AI Study Helper App
 An AI-powered learning assistant for explanations, diagrams, quizzes, and study history.
 
-- 📦 APK: APK_LINK_HERE  
-- 🔗 Source Code: REPO_LINK_HERE  
+- 📦 APK: [APK_LINK_HERE .Tap to download the app](https://github.com/Nehal-Ahmmed/EduVision-AI/releases) 
+- 🔗 Source Code: [REPO_LINK_HERE ](https://github.com/Nehal-Ahmmed/EduVision-AI) 
 
 ### 📸 Screenshots
 <p align="center">
